@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970256355589",
+    "project_id": "espressotesting-calculatorapp",
+    "storage_bucket": "espressotesting-calculatorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970256355589:android:bbbbe0b10067d2813e676c",
+        "android_client_info": {
+          "package_name": "com.example.espressotesting_calculatorandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970256355589-u13bv554lonn0cljf7t4tmn7ibe79e59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArIsu_mG6VsLw3AQmjfCZSrYPGe6dLLSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970256355589-u13bv554lonn0cljf7t4tmn7ibe79e59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
